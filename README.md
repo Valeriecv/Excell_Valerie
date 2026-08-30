@@ -1,14 +1,17 @@
-PROYECTO: ANÁLISIS PREDICTIVO DE VENTAS Y RENDIMIENTO DE MARKETING
-1. Descripción del Proyecto
-Este proyecto analiza el comportamiento de las ventas reales y el gasto publicitario durante el año 2025 para proyectar la tendencia del primer semestre de 2026 utilizando herramientas de Inteligencia Artificial en Excel.
-2. Archivos Incluidos en la Entrega
-Excel proyecto.xlsx: Hoja de cálculo con los datos históricos, fórmulas predictivas (PRONOSTICO.ETS) y gráficos de previsión.
-Video_Presentacion: Explicación detallada del análisis (2-3 min).
-README.md: Documento explicativo del proyecto.
-3. Pregunta Clave y Conclusión
-Pregunta clave: ¿En qué mes de 2026 se proyectan las mayores ventas y cuál es la tendencia según las funciones de IA/Pronóstico?
-Resultado: El análisis predictivo demuestra que **Junio de 2026** será el mes con mayores ventas proyectadas, alcanzando una cifra estimada de **$44,488 USD** (con un límite de confianza inferior de $35,914 USD).
+# Proyecto Final: Análisis Predictivo de Ventas y Rendimiento de Marketing
 
-4. Herramientas Utilizadas
-Función =PRONOSTICO.ETS en Excel para suavizado exponencial.
-Hoja de pronóstico de Excel para generar los intervalos de confianza e interpretar la tendencia.
+## 1. Descripción del Problema
+Este proyecto analiza la relación entre el gasto en publicidad y las ventas reales registradas durante el año 2025, con el fin de generar una proyección comercial automatizada para el primer semestre de 2026 mediante el uso de algoritmos de inteligencia artificial en Excel.
+
+## 2. Archivos del Repositorio
+* `Excel proyecto.xlsx`: Hoja de cálculo con el modelo predictivo, fórmulas automatizadas e indicadores.
+* `README.md`: Documentación del proyecto.
+* **Video de Presentación (3-5 min):** [Haz clic aquí para ver la demostración en video]((https://youtu.be/yF10cyloAIk))
+
+## 3. Hallazgos y Resultados Clave
+* **Tendencia:** El modelo de suavizado exponencial refleja un crecimiento sostenido para el primer semestre de 2026.
+* **Pico Comercial:** El mes con mayor proyección de ventas es **Junio de 2026**, alcanzando un estimado de **$44,488 USD**.
+
+## 4. Herramientas de IA Utilizadas
+* Función `=PRONOSTICO.ETS` para modelado de series temporales.
+* Herramienta visual **Hoja de Pronóstico** de Excel.
