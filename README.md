@@ -6,7 +6,7 @@ Este proyecto analiza la relación entre el gasto en publicidad y las ventas rea
 ## 2. Archivos del Repositorio
 * `Excel proyecto.xlsx`: Hoja de cálculo con el modelo predictivo, fórmulas automatizadas e indicadores.
 * `README.md`: Documentación del proyecto.
-* **Video de Presentación (3-5 min):** [Haz clic aquí para ver la demostración en video]((https://youtu.be/yF10cyloAIk))
+* **Video de Presentación (3-5 min):** ((https://youtu.be/yF10cyloAIk))
 
 ## 3. Hallazgos y Resultados Clave
 * **Tendencia:** El modelo de suavizado exponencial refleja un crecimiento sostenido para el primer semestre de 2026.
